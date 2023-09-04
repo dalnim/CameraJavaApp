@@ -1,4 +1,4 @@
-package com.android.example.camearajavaapp;
+package com.android.example.camerajavaapp;
 
 import org.junit.Test;
 

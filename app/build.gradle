@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.android.example.camearajavaapp'
+    namespace 'com.android.example.camerajavaapp'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.android.example.camearajavaapp"
+        applicationId "com.android.example.camerajavaapp"
         minSdk 24
         targetSdk 33
         versionCode 1
